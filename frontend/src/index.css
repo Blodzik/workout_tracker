@@ -23,7 +23,7 @@ header .container {
   justify-content: space-between;
 }
 header a {
-  color: #333;
+  color: #3a3939;
   text-decoration: none;
 }
 .pages{
@@ -54,7 +54,7 @@ header a {
 .workout-details p {
   margin: 0;
   font-size: 0.9em;
-  color: #565656;
+  color: #545353;
 }
 .workout-details span {
   position: absolute;
